@@ -1,2 +1,2 @@
-i#!/bin/bash
-chomd u+x helloi
+#!/bin/bash
+chomd u+x hello
